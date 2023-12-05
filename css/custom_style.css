@@ -1,0 +1,10 @@
+.error{
+	color: red;
+	font-weight:normal !important;
+}
+
+.aalert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
